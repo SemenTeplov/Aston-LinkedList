@@ -1,6 +1,6 @@
 # Aston-LinkedList
 
-##Class LinkedList
+## Class LinkedList
 ### Metods
 
 public netods:
