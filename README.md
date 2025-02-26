@@ -3,9 +3,9 @@
 ## Class LinkedList
 ### Metods
 
-public netods:
+public metods:
 
--add() - there are three versions, first get one element, second get array of elements, third get collevtion.
+-add() - there are three versions, first get one element, second get array of elements, third get collection.
 
 -insert() - get elem and index.
 
